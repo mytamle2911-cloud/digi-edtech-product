@@ -7,6 +7,15 @@
 > **Customers:** Parents, with schools as a potential B2B/B2B2C channel  
 > **Stage:** MVP / early validation — not a fully launched commercial product
 
+
+### 🚀 Live MVP Demo
+
+Experience DIGI's interactive learning platform through our live MVP.
+
+**[🚀 Try DIGI — Live MVP Demo](https://ai-unlocked-app-17964.lovable.app/home)**
+
+> This is an interactive MVP prototype developed to demonstrate DIGI's core learning experience.
+
 ## At a glance
 
 DIGI is a proposed mobile-first learning platform that helps students develop practical AI and digital skills through short, gamified learning activities, quizzes, and scenario-based exercises.
@@ -51,7 +60,6 @@ DIGI's core MVP concept combines:
 **Important:** The feature set above includes both MVP elements and planned enhancements. See [Solution & scope](docs/02-solution.md) for this distinction.
 
 ![DIGI product concept](assets/digi-product-concept.png)
-![DIGI MVP] (https://ai-unlocked-app-17964.lovable.app/home)
 
 ## 4. MVP validation & insights
 
