@@ -51,6 +51,7 @@ DIGI's core MVP concept combines:
 **Important:** The feature set above includes both MVP elements and planned enhancements. See [Solution & scope](docs/02-solution.md) for this distinction.
 
 ![DIGI product concept](assets/digi-product-concept.png)
+![DIGI MVP] (https://ai-unlocked-app-17964.lovable.app/home)
 
 ## 4. MVP validation & insights
 
